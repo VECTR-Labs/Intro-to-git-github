@@ -23,10 +23,10 @@ By the end of this lab, you should be able to:
 ## Lab Outline (What You’ll Do)
 
 ### Part 1 — GitHub UI Warm-Up (quick & visual)
-1. Make a small edit in the GitHub web UI (a runbook or data file)
+1. Make a small edit in the GitHub web UI
 2. Commit the change to a **new branch**
 3. Open a **Pull Request**
-4. Merge the PR (you’ll see merge options like squash vs merge commit)
+4. Merge the PR
 
 ### Part 2 — Terminal Workflow
 1. Clone your copy of the repo
@@ -34,7 +34,7 @@ By the end of this lab, you should be able to:
 3. Edit a file locally
 4. Stage and commit the change
 5. Push your branch to GitHub
-6. Open a PR (GitHub UI or `gh pr create`)
+6. Open a PR
 7. Merge it
 
 ### Part 3 — Merge Conflict + Rebase
@@ -67,5 +67,5 @@ You’re done when you can confidently say:
 
 ## Notes
 
-- This repository's content is completely fake. All content in the repository was generated using AI and is not meant to be used. The respository serves to be cloned and used to teach git commands.
+- This repository's content is completely fake. Most content in the repository was generated using AI and is not meant to be used. The respository serves to be cloned and used to teach git commands.
 - This repository is used for VECTR modules associated with [nebraskamatrix.com/vectr](nebraskamatrix.com/vectr)
